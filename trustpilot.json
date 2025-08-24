@@ -1,0 +1,27 @@
+{
+  "rating": 4.7,
+  "count": 68,
+  "reviews": [
+    {
+      "stars": 5,
+      "title": "Super service",
+      "text": "Envoi rapide, flacons bien protégés, rien à dire.",
+      "author": "Paul",
+      "date": "2025-08-10"
+    },
+    {
+      "stars": 5,
+      "title": "Parfait",
+      "text": "Décants fidèles, pratique pour tester.",
+      "author": "Nadia",
+      "date": "2025-08-03"
+    },
+    {
+      "stars": 4,
+      "title": "Très bien",
+      "text": "Bon suivi et communication.",
+      "author": "Louis",
+      "date": "2025-07-29"
+    }
+  ]
+}
