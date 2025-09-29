@@ -1,40 +1,41 @@
 {
-  "rating": 4.7,
-  "count": 68,
+  "rating": 4.3,
+  "count": 13,
   "reviews": [
     {
       "stars": 5,
-      "text": "Merci à l'équipe parfum au top",
-      "author": "Mathieu",
-      "date": "2025-08-24"
+      "title": "🤗🥰😁😍😇 Mon nouveau site favori",
+      "text": "Super super & super J’espère que mon parfum préféré, balade sauvage sera dispo encore un certain temps :) Bravo l'équipe.",
+      "author": "Mathieu Legrand",
+      "date": "2025-09-27"
     },
     {
       "stars": 5,
-      "title": "Parfait",
-      "text": "Décants fidèles, pratique pour tester.",
-      "author": "Nadia",
-      "date": "2025-08-03"
+      "title": "Très bien",
+      "text": "Site sérieux. Livraison rapide et soignée.",
+      "author": "Greg 9626",
+      "date": "2025-09-23"
     },
     {
-      "stars": 4,
-      "title": "Très bien",
-      "text": "Bon suivi et communication.",
-      "author": "Louis",
-      "date": "2025-07-29"
+      "stars": 5,
+      "title": "Très bien recu",
+      "text": "Très bien recu",
+      "author": "Hamd",
+      "date": "2025-09-22"
     },
     {
-      "stars": 4,
-      "title": "Très bien",
-      "text": "Bon suivi et communication.",
-      "author": "Louis",
-      "date": "2025-07-29"
+      "stars": 5,
+      "title": "Super site jai commander 2 fois dessus…",
+      "text": "Super site jai commander 2 fois dessus livraison rapide et parfum authentique ont peut commander les yeux fermés le packaging et super le delai de livraison rapide au top !",
+      "author": "Diland M",
+      "date": "2025-09-19"
     },
     {
-      "stars": 4,
-      "title": "Très bien",
-      "text": "Bon suivi et communication.",
-      "author": "Louis",
-      "date": "2025-07-29"
+      "stars": 5,
+      "title": "Commande conforme à ce que je…",
+      "text": "Commande conforme à ce que je souhaitais. Beaucoup de choix. Les parfums sont protégés. Très bien",
+      "author": "Moreau Baradat",
+      "date": "2025-09-07"
     }
   ]
 }
