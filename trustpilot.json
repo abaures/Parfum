@@ -32,10 +32,53 @@
     },
     {
       "stars": 5,
+      "title": "Site très clair",
+      "text": "Site très clair\nLivraison ok\nDommage de ne pas insister sur la beauté des contenants",
+      "author": "Sébastien CORNIER",
+      "date": "2025-09-19"
+    },
+    {
+      "stars": 5,
+      "title": "Super",
+      "text": "Beaucoup de choix de parfums, livraison rapide, tout est ok",
+      "author": "Leïla",
+      "date": "2025-09-19"
+    },
+    {
+      "stars": 5,
+      "title": "Parfum atlas garden ysl",
+      "text": "Parfait je recommande",
+      "author": "Safiya",
+      "date": "2025-09-18"
+    },
+    {
+      "stars": 5,
+      "title": "Service et produits de qualité",
+      "text": "Parfums reçus en bonne et due forme, nickel ! Je recommande ce site.",
+      "author": "David",
+      "date": "2025-09-13"
+    },
+    {
+      "stars": 5,
+      "title": "Bonne affaire !",
+      "text": "Livraison rapide, parfums de qualité, prix abordables, je recommande !",
+      "author": "Anaïs",
+      "date": "2025-09-13"
+    },    
+    {
+      "stars": 5,
       "title": "Commande conforme à ce que je…",
       "text": "Commande conforme à ce que je souhaitais. Beaucoup de choix. Les parfums sont protégés. Très bien",
       "author": "Moreau Baradat",
       "date": "2025-09-07"
+    },
+    {
+      "stars": 5,
+      "title": "tres bon site je recommande",
+      "text": "tres bon site je recommande",
+      "author": "MOHAMED",
+      "date": "2025-09-05"
     }
+
   ]
 }
