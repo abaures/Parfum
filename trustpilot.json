@@ -4,6 +4,34 @@
   "reviews": [
     {
       "stars": 5,
+      "title": "Échantillon bien reçu",
+      "text": "Échantillon bien reçu, merci Capitole.",
+      "author": "Ano",
+      "date": "2025-10-25"
+    },
+    {
+      "stars": 5,
+      "title": "Envoi rapide",
+      "text": "Envoi rapide, super bien emballé et parfum au top, au dessus de mes espérance",
+      "author": "Livia Machado",
+      "date": "2025-10-25"
+    },
+    {
+      "stars": 5,
+      "title": "Satisfaite !",
+      "text": "Moi qui étais un peu septique, ne connaissant pas du tout le concept, je suis finalement plus que ravie ! Le parfum et son odeur correspondent bien à ce que j'ai commandé et à ce que j'attendais. La livraison est très rapide. Je recommande :)",
+      "author": "Charléza Legraverend",
+      "date": "2025-10-22"
+    },
+    {
+      "stars": 4,
+      "title": "Bonjour",
+      "text": "Bonjour , je suis satisfaite des produits , cela fait la troisième fois que je commande des produits chez vous . En moins de 2 mois . Et je souhaiterais vous demander si vous pouvez m’envoyer des échantillons",
+      "author": "Benfat",
+      "date": "2025-10-06"
+    },
+    {
+      "stars": 5,
       "title": "🤗🥰😁😍😇 Mon nouveau site favori",
       "text": "Super super & super J’espère que mon parfum préféré, balade sauvage sera dispo encore un certain temps :) Bravo l'équipe.",
       "author": "Mathieu Legrand",
