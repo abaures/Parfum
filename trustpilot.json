@@ -1,112 +1,76 @@
 {
-  "rating": 4.4,
-  "count": 17,
+  "rating": 4.3,
+  "count": 42,
   "reviews": [
     {
-      "stars": 5,
-      "title": "Échantillon bien reçu",
-      "text": "Échantillon bien reçu, merci Capitole.",
-      "author": "Ano",
-      "date": "2025-10-25"
-    },
-    {
-      "stars": 5,
-      "title": "Envoi rapide",
-      "text": "Envoi rapide, super bien emballé et parfum au top, au dessus de mes espérance",
-      "author": "Livia Machado",
-      "date": "2025-10-25"
-    },
-    {
-      "stars": 5,
-      "title": "Satisfaite !",
-      "text": "Moi qui étais un peu septique, ne connaissant pas du tout le concept, je suis finalement plus que ravie ! Le parfum et son odeur correspondent bien à ce que j'ai commandé et à ce que j'attendais. La livraison est très rapide. Je recommande :)",
-      "author": "Charléza Legraverend",
-      "date": "2025-10-22"
-    },
-    {
-      "stars": 4,
-      "title": "Bonjour",
-      "text": "Bonjour , je suis satisfaite des produits , cela fait la troisième fois que je commande des produits chez vous . En moins de 2 mois . Et je souhaiterais vous demander si vous pouvez m’envoyer des échantillons",
-      "author": "Benfat",
-      "date": "2025-10-06"
-    },
-    {
-      "stars": 5,
-      "title": "🤗🥰😁😍😇 Mon nouveau site favori",
-      "text": "Super super & super J’espère que mon parfum préféré, balade sauvage sera dispo encore un certain temps :) Bravo l'équipe.",
-      "author": "Mathieu Legrand",
-      "date": "2025-09-27"
-    },
-    {
-      "stars": 5,
-      "title": "Très bien",
-      "text": "Site sérieux. Livraison rapide et soignée.",
-      "author": "Greg 9626",
-      "date": "2025-09-23"
-    },
-    {
-      "stars": 5,
-      "title": "Très bien recu",
-      "text": "Très bien recu",
-      "author": "Hamd",
-      "date": "2025-09-22"
-    },
-    {
-      "stars": 5,
-      "title": "Super site jai commander 2 fois dessus…",
-      "text": "Super site jai commander 2 fois dessus livraison rapide et parfum authentique ont peut commander les yeux fermés le packaging et super le delai de livraison rapide au top !",
-      "author": "Diland M",
-      "date": "2025-09-19"
-    },
-    {
-      "stars": 5,
-      "title": "Site très clair",
-      "text": "Site très clair\nLivraison ok\nDommage de ne pas insister sur la beauté des contenants",
-      "author": "Sébastien CORNIER",
-      "date": "2025-09-19"
-    },
-    {
-      "stars": 5,
-      "title": "Super",
-      "text": "Beaucoup de choix de parfums, livraison rapide, tout est ok",
-      "author": "Leïla",
-      "date": "2025-09-19"
-    },
-    {
-      "stars": 5,
-      "title": "Parfum atlas garden ysl",
-      "text": "Parfait je recommande",
-      "author": "Safiya",
-      "date": "2025-09-18"
-    },
-    {
-      "stars": 5,
-      "title": "Service et produits de qualité",
-      "text": "Parfums reçus en bonne et due forme, nickel ! Je recommande ce site.",
-      "author": "David",
-      "date": "2025-09-13"
-    },
-    {
-      "stars": 5,
-      "title": "Bonne affaire !",
-      "text": "Livraison rapide, parfums de qualité, prix abordables, je recommande !",
-      "author": "Anaïs",
-      "date": "2025-09-13"
-    },    
-    {
-      "stars": 5,
-      "title": "Commande conforme à ce que je…",
-      "text": "Commande conforme à ce que je souhaitais. Beaucoup de choix. Les parfums sont protégés. Très bien",
-      "author": "Moreau Baradat",
-      "date": "2025-09-07"
-    },
-    {
-      "stars": 5,
-      "title": "tres bon site je recommande",
-      "text": "tres bon site je recommande",
-      "author": "MOHAMED",
-      "date": "2025-09-05"
-    }
-
+    "stars": 5,
+    "title": "Livraison rapide même si c’est loin...top",
+    "text": "Livraison rapide même si c’est loin (Réunion)",
+    "author": "françois legros",
+    "date": "2026-05-11"
+  },
+  {
+    "stars": 5,
+    "title": "Produit conforme aux attentes",
+    "text": "Produit conforme aux attentes",
+    "author": "Mohamed",
+    "date": "2026-04-21"
+  },
+  {
+    "stars": 5,
+    "title": "Fantastic service and product is outstanding.",
+    "text": "Fantastic service and product is outstanding.",
+    "author": "D Wilson",
+    "date": "2026-03-29"
+  },
+  {
+    "stars": 5,
+    "title": "L’envoi est très rapide et soigné.",
+    "text": "L’envoi est très rapide et soigné. C’est la seconde fois que je commande et je suis très satisfaite de pouvoir accéder à des produits que je ne pourrais pas me payer en temps normal...",
+    "author": "Fany GILLET",
+    "date": "2026-03-25"
+  },
+  {
+    "stars": 4,
+    "title": "Je suis satisfaite des produits de chez...",
+    "text": "Je suis satisfaite des produits de chez capital dommage certains parfums sont en rupture comme Tom Ford par exemple Tobacco vanille je souhaiterai recevoir des échantillons pour ma fidélité merci d’avance",
+    "author": "Benfat",
+    "date": "2026-03-21"
+  },
+  {
+    "stars": 5,
+    "title": "Great Scent for days",
+    "text": "Great product and service",
+    "author": "Brandon",
+    "date": "2026-03-03"
+  },
+  {
+  "stars": 5,
+  "title": "Très bonne expérience",
+  "text": "Très bonne expérience ! Qualité de l'emballage et du produit Je recommande",
+  "author": "mel",
+  "date": "2026-01-26"
+ },
+ {
+  "stars": 5,
+  "title": "parfum authentique",
+  "text": "parfum authentique, permet d'accèder à des parfums d'exception, super concept !",
+  "author": "CHENE LAETITIA",
+  "date": "2026-01-17"
+ },
+ {
+  "stars": 5,
+  "title": "Perfekt",
+  "text": "Alles ist perfekt gewesen! Liegerung, Unterstützung und die Produkte, TOP!",
+  "author": "Selda",
+  "date": "2026-01-16"
+},
+{
+  "stars": 5,
+  "title": "Je suis à la recherche d’un parfum qui...",
+  "text": "Je suis à la recherche d’un parfum qui me correspond le plus alors jai préférer me tourner vers capitoleparfum afin de trouver un parfum à mon goût je suis très satisfait du résultat mais je vais commander d autre afin de trouver la perle rare qui me satisfait, je trouve que c’est une bonne idée que capitoleparfum à eu, vue les prix des parfums aujourd’hui sa permet d avoir un vrai avis sans payer le prix fort du parfums et au final on aime pas , donc merci capitoleparfum 🙏",
+  "author": "CARREFOUR S.A.V. Toufik Benna",
+  "date": "2026-01-09"
+}   
   ]
 }
